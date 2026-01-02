@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kavya  
+# Hi, I'm Kaviya  
 
 ### Computer Science Student | Aspiring Software Developer  
 
@@ -54,9 +54,6 @@
 ### Hardware & IoT  
 ![IoT](https://skillicons.dev/icons?i=arduino,raspberrypi)
 
-### Cloud & Networking (Basics)  
-![Cloud](https://skillicons.dev/icons?i=cloud,linux)
-
 ---
 
 ## Current Focus  
@@ -73,5 +70,4 @@
 [![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:vkaviya369@gmail.com)
 
 ---
-
-*💭"Planting ideas, growing skills!!"*
+>>*💭"Planting ideas, growing skills!!"*
