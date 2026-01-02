@@ -1,6 +1,6 @@
-# Hi, I'm Kaviya  
+## Hi, I'm Kaviya  
 
-### Computer Science Student | Aspiring Software Developer  
+ Computer Science Student | Aspiring Software Developer  
 
 ---
 
@@ -70,4 +70,4 @@
 [![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:vkaviya369@gmail.com)
 
 ---
->>*💭"Planting ideas, growing skills!!"*
+>*💭"Planting ideas, growing skills!!"*
